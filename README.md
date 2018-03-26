@@ -24,9 +24,13 @@
         of a school. She had an amazing time and made friends on that trip that she still talks to
         today.
         
-        Anika took AP Computer Science Principles her sophomore year. One day, someone came into her class to talk to them about a summer         program called Make School. It was an 8-week program that taught young developers how to make apps. She decided to do it.
-        After she got used to a new programming language, Anika decided to make an app the would help those newly diagnosed with Type 1
-        Diabetes do their insulin calculations. Her younger sister, who has T1D, and her sister's nurse helped her figure out the formulas         needed to safely ensure that these calculations worked. She presented her app at Make School's Bay Area Demo Day.</p></div>
+        Anika took AP Computer Science Principles her sophomore year. One day, someone came into her
+        class to talk to them about a summer program called Make School. It was an 8-week program 
+        that taught young developers how to make apps. She decided to do it. After she got used to a 
+        new programming language, Anika decided to make an app the would help those newly diagnosed with 
+        Type 1 Diabetes do their insulin calculations. Her younger sister, who has T1D, and her sister's 
+        nurse helped her figure out the formulas needed to safely ensure that these calculations worked. 
+        She presented her app at Make School's Bay Area Demo Day.
 
 </body>
 </html>
